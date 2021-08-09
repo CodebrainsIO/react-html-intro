@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Button, Card, ListGroup, ListGroupItem, Modal } from 'react-bootstrap';
+import { Button, Card, Modal } from 'react-bootstrap';
 
 export interface IUser {
     id: number;
